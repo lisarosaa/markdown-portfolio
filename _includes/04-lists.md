@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My favorite **books**:
+* The Lord of the Rings
+* A Song of Ice and Fire
+* Pride and Prejudice
